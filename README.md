@@ -1,7 +1,7 @@
 # FOSSil 
 ---
 (if someone can add more of those badge things that would be nice)
-[![https://img.shields.io/matrix/null:kde.org](matrix://#null:kde.org)]
+![https://img.shields.io/matrix/null:kde.org](matrix://#null:kde.org)
 
 ## About
 FOSSil automatically uses GET requests to download and compress websites.
