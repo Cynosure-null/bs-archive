@@ -1,12 +1,13 @@
-# FOSSil 
+# Bloody Stupid Archive 
 ---
 (if someone can add more of those badge things that would be nice)
 ![https://img.shields.io/matrix/null:kde.org](matrix://#null:kde.org)
 
 ## About
-FOSSil automatically uses GET requests to download and compress websites.
+Bloody Stupid Archive automatically uses GET requests to download and compress websites.
 
 ### Directories used:
+Note: FOSSil is an old name
 
 `~/.config/fossil/config.toml`: This is the configuration file, the only way to control Fossil. It is discussed more in the config section.
 
@@ -39,3 +40,10 @@ cd fossil
 
 ### Troubleshooting
 Contact me via matrix or start a discussion on Github
+
+### Roadmap
+TODO: Refactor code to suck less
+- [ ] Dictionaries
+- [ ] Classes
+- [ ] Less jank
+- [ ] Rename 
